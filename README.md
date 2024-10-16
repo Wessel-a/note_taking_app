@@ -15,5 +15,5 @@ Implemented key classes from the class diagram:
 
 Added the Image and Sketch classes, although they have not been fully implemented yet.
 Basic H2 database persistence has been set up.
-basic data checks are included in the NoteTakingAppApplication.java class.
+Basic data checks are included in the NoteTakingAppApplication.java class.
 
